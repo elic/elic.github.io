@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Elic&#39;s Programming Journal</title>
+    <link>https://elic.github.io/</link>
+    <description>Recent content in Home on Elic&#39;s Programming Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 01 May 2019 12:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://elic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://elic.github.io/about/</link>
+      <pubDate>Wed, 01 May 2019 12:00:00 +0800</pubDate>
+      
+      <guid>https://elic.github.io/about/</guid>
+      <description>under construction</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://elic.github.io/posts/hello/</link>
+      <pubDate>Mon, 26 Jun 2017 18:27:58 +0100</pubDate>
+      
+      <guid>https://elic.github.io/posts/hello/</guid>
+      <description> Test Syntex Highlighting # These are two numbered doors, initially closed door1 = [1, &#39;closed&#39;] door2 = [2, &#39;closed&#39;] # This procedure opens a door def open_door(door): door[1] = &#39;open&#39; open_door(door1) print(door1)  </description>
+    </item>
+    
+    <item>
+      <title>Sandbox</title>
+      <link>https://elic.github.io/posts/sandbox/</link>
+      <pubDate>Tue, 09 Jul 2013 07:43:00 +0000</pubDate>
+      
+      <guid>https://elic.github.io/posts/sandbox/</guid>
+      <description>Just a test page This test page is a copy from my old logdown
+Write Some Page &amp;lt;html&amp;gt; &amp;lt;head&amp;gt; &amp;lt;title&amp;gt;Hello, world&amp;lt;/title&amp;gt; &amp;lt;/head&amp;gt; &amp;lt;body bgcolor=&amp;quot;#000000&amp;quot;&amp;gt; &amp;lt;/body&amp;gt; &amp;lt;/html&amp;gt;  Make Some Command df -h
+Write Some Code int main(){return 0;}  #!/usr/bin/python import os, random src_dir = &amp;quot;&amp;quot; dist_dir= &amp;quot;&amp;quot; p = 75 def randmv(dir_path): files = os.listdir(dir_path) for fd in files: fdpath = os.path.join(dir_path,fd) if os.path.isfile(fdpath): if random.random()*100 &amp;gt; p: os.</description>
+    </item>
+    
+  </channel>
+</rss>
